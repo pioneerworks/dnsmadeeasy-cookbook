@@ -38,8 +38,8 @@ version '0.2.1'
 
 chef_version '>= 12.5' if respond_to?(:chef_version)
 
-source_url 'https://github.com/kigster/dnsmadeeasy-cookbook'
-issues_url 'https://github.com/kigster/dnsmadeeasy-cookbook/issues'
+source_url 'https://github.com/pioneerworks/dnsmadeeasy-cookbook'
+issues_url 'https://github.com/pioneerworks/dnsmadeeasy-cookbook/issues'
 
 gem 'dnsmadeeasy', '~> 0.3.2'
 
