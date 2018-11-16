@@ -34,7 +34,7 @@ Creating a new A record (skips over, if already created):
  end
 ```
 EOF
-version '0.2.0'
+version '0.2.1'
 
 chef_version '>= 12.5' if respond_to?(:chef_version)
 
